@@ -11,7 +11,7 @@ We build SDKs, APIs, and examples to make it easier to:
 ## Projects
 
 - **[easymcp](https://github.com/promptmesh/easymcp)** – Python SDK for working with MCP servers
-- **SemanticTool** – Upcoming HTTP/GQL API built on top of `easymcp`
+- **[SemanticTool](https://github.com/promptmesh/semantictool)** – Upcoming HTTP/GQL API built on top of `easymcp`
 - **[RelayMCP](https://github.com/promptmesh/relaymcp)** - Upcoming OpenAPI to MCP gateway.
 
 ## Goals
