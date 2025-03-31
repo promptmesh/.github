@@ -1,4 +1,4 @@
-# promptmesh
+# Prompt Mesh
 
 Promptmesh is a collection of open-source tools for working with LLMs using the Model Context Protocol (MCP).
 
